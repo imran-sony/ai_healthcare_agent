@@ -33,6 +33,8 @@ Async	-> Fast + scalable
 │── retrieval/  
 │   ├── search.py  
 │── main.py  
+│── dockerfile  
+│── docker-compose.yml  
 │── requirements.txt  
 │── README.md  
 
