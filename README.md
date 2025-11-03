@@ -4,7 +4,7 @@ This project is an AI-powered medical assistant that can:
 ✅ Answer medical questions using LLM + medical knowledge base (RAG)  
 ✅ Check symptoms & risk level  
 ✅ Detect medical emergencies  
-✅ Schedule appointments (simulation)  
+✅ Schedule appointments  
 ✅ Maintain chat session memory  
 ✅ Run completely async using Groq API  
 ✅ Serve via FastAPI REST API  
@@ -30,6 +30,8 @@ Async	-> Fast + scalable
 │   ├── appointment_manager.py  
 │── utils/  
 │   ├── config.py  
+│── retrieval/  
+│   ├── search.py  
 │── main.py  
 │── requirements.txt  
 │── README.md  
