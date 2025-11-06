@@ -22,6 +22,7 @@ Async	-> Fast + scalable
 │── core/  
 │   ├── agent.py  
 │   ├── pipeline.py  
+│   ├── state_manager.py  
 │── modules/  
 │   ├── medical_qa.py  
 │   ├── medical_rag.py  
